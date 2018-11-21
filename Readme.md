@@ -14,9 +14,9 @@ Big O Expressions
 
 
 
-Logarithms
+<h1> Logarithms </h1>
 
-efficient than O(n square)
+efficient than O(n) and (O n square)
 
 Logaritms are inverse to exponentiations
 
