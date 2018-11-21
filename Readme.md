@@ -1,15 +1,15 @@
 Big O Expressions
 
 
-O(n)
-as the n grows the runtime also grows
+<h1>O(n) </h1>
+<p> <b>as the n grows the runtime also grows </b> <p>
 
 
 
 
-O(1)
+<h1>O(1) </h1>
+<p> <b> whatever may be the value of n.. the runtime stays constant </b> <p>
 
-whatever may be the value of n.. the runtime stays constant
 
 
 
