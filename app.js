@@ -1,6 +1,4 @@
 // O(n)
-alert('hello');
-
 // as the n grows the runtime also grows
 
 function logatleattwo(n){
