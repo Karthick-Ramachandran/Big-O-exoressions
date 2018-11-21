@@ -1,9 +1,15 @@
 Big O Expressions
 
 
+O(n)
+as the n grows the runtime also grows
 
 
 
+
+O(1)
+
+whatever may be the value of n.. the runtime stays constant
 
 
 
