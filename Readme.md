@@ -1,8 +1,8 @@
 Big O Expressions
 
 
-<h1>O(n) </h1>
-<p> <b>as the n grows the runtime also grows </b> <p>
+<h1> O(n) </h1>
+<p> <b>as the n grows the runtime also grows </b> </p>
 
 
 
