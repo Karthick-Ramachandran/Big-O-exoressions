@@ -8,7 +8,7 @@ Big O Expressions
 
 
 <h1>O(1) </h1>
-<p> <b> whatever may be the value of n.. the runtime stays constant </b> <p>
+<p> <b> whatever may be the value of n.. the runtime stays constant </b> </p>
 
 
 
